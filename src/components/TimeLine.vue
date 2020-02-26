@@ -68,8 +68,7 @@
           </div>
           <div></div>
         </div>
-        <div v-if="below.length === 0"
-             class="text-block">
+        <div v-if="below.length === 0" class="text-block">
           <div style="height: 3vw;"></div>
           <p class="timestamp"></p>
           <div class="introduce">
