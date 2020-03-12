@@ -26,24 +26,6 @@
 
     <h1 id="main">Responsive Side Menu</h1>
 
-    <!-- <div class="item">
-      <img src="../assets/pinto-1.jpg" alt="" />
-    </div>-->
-
-    <!-- <p>
-      I am a Research Scientist in the Language team at Google Research. My
-      research interests include computer vision, natural language processing
-      and AI in general, and problems at the intersection of computer vision and
-      natural language processing in particular. My recent work has focused on
-      grounded language learning, particularly in large-scale visually-realistic
-      3D environments. I completed my PhD in Computer Science at Australian
-      National University in 2018 where I was advised by Stephen Gould. I was
-      also fortunate to work with Mark Johnson from Macquarie University and
-      Anton van den Hengel from the University of Adelaide. In in Sydney. I have
-      the (fairly rare) distinction of winning two university medals, in Finance
-      (from the University of Sydney) and Computer Engineering (from the
-      University of New South Wales).
-    </p>-->
   </div>
 </template>
 
@@ -64,11 +46,6 @@ export default {
       ]
     };
   }
-  // methods:{
-  //   function openSlideMenu(){
-  //     document.getElementById('side-menu').style.width= '250px';
-  //   }
-  // }
 };
 </script>
 
@@ -107,7 +84,6 @@ export default {
       color: #f8991d;
     }
     ul {
-      // margin: 8px 0 0 0;
       list-style: none;
     }
   }
